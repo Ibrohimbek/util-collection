@@ -1,5 +1,6 @@
 ### Project ###
 coverage.xml
+.coverage
 junit-*.xml
 junit.xml
 venv/
